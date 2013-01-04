@@ -1,3 +1,3 @@
 #/bin/bash
 
-cp -rf /etc/conky ../
+cp -rf /etc/conky ./
